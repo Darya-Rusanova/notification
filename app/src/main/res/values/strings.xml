@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Notification</string>
+    <string name="example">Работа сервиса</string>
+    <string name="start">Запустить сервис</string>
+    <string name="stop">Остановить сервис</string>
+</resources>
